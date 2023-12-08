@@ -58,6 +58,10 @@ This is a frontend project that outputs a message/greeting and it fetches from a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Backend link
+
+This is the link to the backend API [hello-rails-api](https://github.com/mohammadnewton/hello-rails-back-end)
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
